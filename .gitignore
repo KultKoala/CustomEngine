@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+OpenGLTest/assimp-vc142-mtd.dll
+OpenGLTest/nanosuit.rar
